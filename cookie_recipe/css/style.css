@@ -1,0 +1,43 @@
+h1{
+	font-size: 40px;
+	text-align: center;
+	width:600px;
+	border:solid white 15px;
+	margin:4% auto;
+	border-radius: 50px;
+}
+
+body{
+	background-color: #FFE;
+	border: solid black 30px;
+	/*background-image: url("../images/cookies.jpg");
+	background-repeat: no-repeat;*/
+}
+
+a{
+	color:#900;
+}
+
+img{
+	border:solid black 7px;
+	border-radius: 20px;
+}
+
+div{
+	width: 50%;
+	margin:4% 25%;
+}
+
+main{
+	padding-left: 26%;
+	padding-right: 26%;
+}
+
+.desc{
+	display:inline;
+	padding:10px;
+}
+
+header{
+	text-align: center;
+}
